@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Preparation of tax returns
-datePublished: '2016-05-17T20:32:18.512Z'
-dateModified: '2016-05-17T20:31:52.472Z'
+datePublished: '2016-05-17T20:37:12.280Z'
+dateModified: '2016-05-17T20:35:31.828Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-17-preparation-of-tax-returns.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-preparation-of-tax-returns.md
 url: preparation-of-tax-returns/index.html
 _type: Article
 
