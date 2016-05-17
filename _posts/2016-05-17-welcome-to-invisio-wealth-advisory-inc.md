@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to InVisio Wealth Advisory Inc.
-datePublished: '2016-05-17T19:57:23.475Z'
-dateModified: '2016-05-17T19:57:17.870Z'
+datePublished: '2016-05-17T20:01:10.581Z'
+dateModified: '2016-05-17T20:00:53.795Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-17-welcome-to-invisio-wealth-advisory-inc.md
 authors: []
 publisher:
@@ -21,6 +23,5 @@ url: welcome-to-invisio-wealth-advisory-inc/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3330aaa-82f9-43ad-a984-1eb764cfabf9.jpg)
-
 Welcome to InVisio Wealth Advisory Inc.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cc33a8a97cfa3b87e808d1275c90ed2e90cbb84.jpg)
