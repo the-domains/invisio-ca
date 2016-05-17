@@ -1,7 +1,7 @@
 name: invisio.ca
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.857827594038099
+typography_spectrum: 0.76356
 title: InVisio Wealth Advisory Inc.
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#336a88'
     - '#3f3f3f'
     - '#85a6b9'
-  brandStrength: 0.5606787882279605
-  lightness: 0.09708788641728461
-  saturation: 0.4420449435710907
-  rhythmicContrast: 0.861151936929673
+  brandStrength: 0.6875
+  lightness: 0.125
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
